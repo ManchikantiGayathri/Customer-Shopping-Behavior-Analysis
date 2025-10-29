@@ -51,5 +51,38 @@ An interactive dashboard was created using Power BI to visualize:
 - Customer Segmentation (New, Returning, Loyal)
 - Discount and Subscription Insights
 
-🔗 Dashboard file: customer.pbix
+---
 
+## 🛠️ Tools & Technologies
+- SQL (MySQL)
+- Python (Pandas, SQLAlchemy) — for data extraction and preprocessing
+- Power BI — for interactive visualizations
+- Excel — for data cleaning and validation
+
+---
+
+## 💡 Business Impact
+This analysis helps businesses:
+- Identify profitable customer segments.
+- Optimize discount and subscription strategies.
+- Make data-driven marketing and product decisions.
+- Increase overall revenue and retention through customer insights.
+
+  ---
+
+  ## 📁 Project Structure
+  Customer_Shopping_Behavior_Analysis/
+│
+├── Customer_Shopping_Behavior_Analysis.ipynb   # Jupyter notebook with SQL + analysis
+├── new_project.sql                             # SQL queries
+├── customer.pbix                               # Power BI dashboard
+├── README.md                                   # Project documentation
+└── data/                                       # (if applicable) dataset files
+
+---
+
+## 👩‍💻 Author
+Manchikanti Gayathri
+🎓 B.Tech – Computer Science & Engineering
+📍 Andhra Pradesh, India
+📧 gayathri.manchikanti14@gmail.com
