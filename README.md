@@ -68,21 +68,9 @@ This analysis helps businesses:
 - Make data-driven marketing and product decisions.
 - Increase overall revenue and retention through customer insights.
 
-  ---
-
-  ## 📁 Project Structure
-  Customer_Shopping_Behavior_Analysis/
-│
-├── Customer_Shopping_Behavior_Analysis.ipynb   # Jupyter notebook with SQL + analysis
-├── new_project.sql                             # SQL queries
-├── customer.pbix                               # Power BI dashboard
-├── README.md                                   # Project documentation
-└── data/                                       # (if applicable) dataset files
-
 ---
 
 ## 👩‍💻 Author
-Manchikanti Gayathri
-🎓 B.Tech – Computer Science & Engineering
-📍 Andhra Pradesh, India
-📧 gayathri.manchikanti14@gmail.com
+- Manchikanti Gayathri
+- 🎓 B.Tech – Computer Science & Engineering
+- 📍 Andhra Pradesh, India
