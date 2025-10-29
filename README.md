@@ -43,13 +43,13 @@ The dataset used (`customer_behavior.csv`) contains **6,000+ records** with the 
 
 ---
 
-## 🧮 SQL Analysis
-All queries were written in **MySQL** and executed via **Jupyter Notebook**.
+## 📈 Power BI Dashboard
+An interactive dashboard was created using Power BI to visualize:
+- Total Revenue and Average Spend
+- Revenue by Gender and Age Group
+- Top Products by Sales and Ratings
+- Customer Segmentation (New, Returning, Loyal)
+- Discount and Subscription Insights
 
-Some key queries include:
-- **Revenue by Gender**
-  ```sql
-  SELECT gender, SUM(purchase_amount) AS total_revenue
-  FROM customer
-  GROUP BY gender;
+🔗 Dashboard file: customer.pbix
 
